@@ -10,6 +10,8 @@ Urban environments are constantly evolving, and current spatiotemporal model eva
 
 ST-OOD comprises six urban scenario datasets:
 
+<img src="geoplot.jpg" width="500" height="400" alt="">
+
 1. Bike-sharing (Chicago)
 2. 311 services (New York City)
 3. Pedestrian counts (Zurich) 
